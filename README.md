@@ -13,4 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Add a feature that the customers can check the table's availability
+- Menu should have a reference picture to each items
+- Form can be more interactive
+- Social media should be on the header page
