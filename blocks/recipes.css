@@ -36,6 +36,7 @@
 
 .recipes__video {
   display: flex;
+  flex-direction: column;
 }
 
 .recipes__iframe {
