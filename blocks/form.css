@@ -11,7 +11,7 @@
 .form__label {
   margin-bottom: 32px;
   display: block;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -19,6 +19,9 @@
 }
 
 .form__input {
+  color: #838383;
+  border-width: 1px;
+  border-style: solid;
   display: block;
   width: 100%;
   padding: 0;
@@ -29,7 +32,7 @@
 }
 
 .form__input::placeholder {
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
   font-style: normal;
@@ -43,12 +46,13 @@
   padding: 0;
   margin-bottom: 32px;
   border-radius: 4px;
+  border-style: none;
   opacity: 100%;
   transition: opacity 0.2s ease-in-out;
   height: 60px;
   background-color: #2f80ed;
   color: #fff;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
