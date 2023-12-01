@@ -58,6 +58,7 @@
   display: flex;
   justify-content: space-between;
   margin-top: auto;
+  flex-direction: column;
 }
 
 .header__paragraph {
@@ -68,4 +69,8 @@
   font-size: 16px;
   line-height: 20px;
   color: #6f6f6f;
+}
+
+.header__paragraph:last-child {
+  margin-left: auto;
 }
