@@ -13,6 +13,7 @@
   font-size: 44px;
   line-height: 52px;
   color: #fff;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -24,6 +25,7 @@
   line-height: 30px;
   color: #fff;
   margin-top: 24px;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -55,5 +57,6 @@
   line-height: 30px;
   color: #fff;
   gap: 24px;
+  margin-top: 0;
   margin-bottom: 0;
 }

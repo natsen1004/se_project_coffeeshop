@@ -12,7 +12,6 @@
 .footer__logo {
   width: 105px;
   height: 39px;
-  margin-bottom: 108px;
 }
 
 .footer__social {
@@ -25,6 +24,7 @@
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
+  margin-top: 0;
   margin-bottom: 0;
   display: flex;
   gap: 20px;
@@ -37,6 +37,7 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  margin-top: 0;
   margin-bottom: 0;
   display: flex;
   flex-direction: column;
